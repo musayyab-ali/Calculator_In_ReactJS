@@ -14,10 +14,10 @@ function Footer() {
                 </h6>
                 <ul class="list-unstyled footer-link mt-4">
                   <li>
-                    <Link to="">Pages</Link>
+                    <Link to="/page">Pages</Link>
                   </li>
                   <li>
-                    <Link to="">Our Team</Link>
+                    <Link to="/team">Our Team</Link>
                   </li>
                   <li>
                     <Link to="">Feuchers</Link>
@@ -36,16 +36,16 @@ function Footer() {
                 </h6>
                 <ul class="list-unstyled footer-link mt-4">
                   <li>
-                    <Link to="">Monitoring Grader </Link>
+                    <Link to="/">Home </Link>
                   </li>
                   <li>
-                    <Link to="">Video Tutorial</Link>
+                    <Link to="/blog">Blogs</Link>
                   </li>
                   <li>
-                    <Link to="">Term &amp; Service</Link>
+                    <Link to="/about">AboutUS</Link>
                   </li>
                   <li>
-                    <Link to="">Zeeko API</Link>
+                    <Link to="/contact">ContactUs</Link>
                   </li>
                 </ul>
               </div>
@@ -56,16 +56,16 @@ function Footer() {
                 <h6 class="footer-heading text-uppercase text-white">Help</h6>
                 <ul class="list-unstyled footer-link mt-4">
                   <li>
-                    <Link to="">Sign Up </Link>
+                    <Link to="/singup">Sign Up </Link>
                   </li>
                   <li>
-                    <Link to="">Login</Link>
+                    <Link to="/login">Login</Link>
                   </li>
                   <li>
-                    <Link to="">Terms of Services</Link>
+                    <Link to="/service">Terms of Services</Link>
                   </li>
                   <li>
-                    <Link to="">Privacy Policy</Link>
+                    <Link to="/privacy">Privacy Policy</Link>
                   </li>
                 </ul>
               </div>

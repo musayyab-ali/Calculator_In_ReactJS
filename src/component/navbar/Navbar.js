@@ -17,7 +17,7 @@ function Navbar() {
             <nav className="header-navigation">
               <Link to="/">Home</Link>
               <Link to="/about">About</Link>
-              <Link to="/blog">Blog</Link>
+              <Link to="/blog">Services</Link>
               <Link to="/contact">Contact Us</Link>
               <button>Menu</button>
             </nav>

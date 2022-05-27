@@ -1,5 +1,6 @@
 import React from "react";
 import Calculator from "../calculator/Calculator";
+import TeamSection from "../teamSection/TeamSection";
 import "./home.css";
 
 function Home() {
@@ -21,6 +22,9 @@ function Home() {
       </main>
 
       <Calculator />
+      <br />
+
+      <TeamSection />
     </>
   );
 }
